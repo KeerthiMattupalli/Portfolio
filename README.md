@@ -28,5 +28,5 @@ portfolio-website/
 
 ## 📬 Contact
 **Name:** Keerthi Mattupalli  
-**Email:** your-email@example.com  
+**Email:** keerthimattupalli@example.com  
 **GitHub:** [KeerthiMattupalli](https://github.com/KeerthiMattupalli)
