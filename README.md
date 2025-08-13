@@ -16,11 +16,11 @@ Built using **HTML, CSS, and JavaScript**.
 - JavaScript
 
 ## 📂 Folder Structure
-portfolio-website/
-│── index.html # Main HTML file
-│── style.css # Styling file
-│── script.js # JavaScript (optional)
-└── images/ # Images used in the site
+portfolio-website
+index.html # Main HTML file
+style.css # Styling file
+script.js # JavaScript (optional)
+images/ # Images used in the site
 
 
 ## 📸 Demo Screenshot
