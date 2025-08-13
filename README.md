@@ -24,7 +24,7 @@ images/ # Images used in the site
 
 
 ## 📸 Demo Screenshot
-![Portfolio Screenshot](images/demo.png)
+![Portfolio Screenshot](https://drive.google.com/file/d/1fGeiDnygRP-AAYzD8HHu85ScPUl5gUtR/view?usp=drive_link)
 
 ## 📬 Contact
 **Name:** Keerthi Mattupalli  
