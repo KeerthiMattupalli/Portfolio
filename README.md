@@ -28,5 +28,5 @@ images/ # Images used in the site
 
 ## 📬 Contact
 **Name:** Keerthi Mattupalli  
-**Email:** keerthimattupalli@example.com  
+**Email:** keerthimattupalli@gmail.com  
 **GitHub:** [KeerthiMattupalli](https://github.com/KeerthiMattupalli)
